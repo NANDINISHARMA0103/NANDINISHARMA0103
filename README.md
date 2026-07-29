@@ -27,20 +27,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="left">
- <a href="https://www.linkedin.com/in/nandini-sharma-276a1824b">
-  <img src="https://img.shields.io/static/v1?label=&message=&color=7C3AED&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="40" />
-</a>
-  <a href="mailto:nandini.sh3@gmail.com">
-  <img src="https://img.shields.io/static/v1?label=&message=&color=7C3AED&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="40" />
-</a>
-  />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">
