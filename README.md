@@ -5,8 +5,12 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=750&lines=Turning+economic+and+financial+data+into+decision-ready+insights;Building+models+for+credit+risk+and+financial+analytics;Exploring+econometrics%2C+machine+learning+and+explainable+AI"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=7C3AED&center=true&vCenter=true&width=750&lines=Turning+data+into+decision-ready+insights;Building+models+for+credit+risk+%26+finance;Exploring+econometrics+%26+explainable+AI"
     alt="Typing introduction"
+  />
+</p>
+
+---
 
 ## 🧰 Tools & Technologies
 
@@ -27,12 +31,12 @@
 
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=00000000"
     alt="GitHub Stats"
     height="165"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=00000000"
     alt="Top Languages"
     height="165"
   />
