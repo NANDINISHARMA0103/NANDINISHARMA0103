@@ -5,7 +5,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=7C3AED&center=true&vCenter=true&width=750&lines=Turning+data+into+decision-ready+insights;Building+models+for+credit+risk+%26+finance;Exploring+econometrics+%26+explainable+AI"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=7C3AED&center=true&vCenter=true&width=750&lines=Turning+data+into+decision-ready+insights.;Analyzing+markets+through+an+economics+lens.;Bridging+economic+theory+with+real-world+data."
     alt="Typing introduction"
   />
 </p>
@@ -55,4 +55,4 @@
   </a>
 </p>
 
-<p align="center"><i>Open to opportunities in financial analytics, credit risk & data-driven decision making.</i></p>
+<p align="center"><i>Open to opportunities in Data Analysis and beyond, wherever Economics meets Data.</i></p>
