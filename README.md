@@ -30,15 +30,12 @@
 # 📊 GitHub Stats
 
 <p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=NANDINISHARMA0103&show_icons=true&theme=dark&hide_border=true&bg_color=00000000"
-    alt="GitHub Stats"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NANDINISHARMA0103&layout=compact&theme=dark&hide_border=true&bg_color=00000000"
-    alt="Top Languages"
-    height="165"
+ <a href="https://www.linkedin.com/in/nandini-sharma-276a1824b">
+  <img src="https://img.shields.io/static/v1?label=&message=&color=7C3AED&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="40" />
+</a>
+  <a href="mailto:nandini.sh3@gmail.com">
+  <img src="https://img.shields.io/static/v1?label=&message=&color=7C3AED&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="40" />
+</a>
   />
 </p>
 
