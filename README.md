@@ -48,10 +48,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nandini-sharma-276a1824b">
-    <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="40" />
   </a>
   <a href="mailto:nandini.sh3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-7C3AED?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="40" />
   </a>
 </p>
 
