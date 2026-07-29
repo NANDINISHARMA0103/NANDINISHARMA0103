@@ -34,7 +34,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="nandini.sh3@gmail.com">
+ <a href="mailto:nandini.sh3@gmail.com@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Gmail"/>
   </a>
 </p>
