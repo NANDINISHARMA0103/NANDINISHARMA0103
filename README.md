@@ -48,11 +48,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nandini-sharma-276a1824b">
-    <img src="https://img.shields.io/badge/-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="40" />
-  </a>
-  <a href="mailto:nandini.sh3@gmail.com">
-    <img src="https://img.shields.io/badge/-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="40" />
-  </a>
-</p>
-
+  <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:nandini.sh3@gmail.com">
+  <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 <p align="center"><i>Open to opportunities in Data Analysis and beyond, wherever Economics meets Data.</i></p>
