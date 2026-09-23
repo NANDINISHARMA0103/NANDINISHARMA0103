@@ -5,8 +5,8 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=7C3AED&center=true&vCenter=true&width=750&lines=Turning+data+into+decision
-    +ready+insights.;Analyzing+markets+through+an+economics+lens.;Bridging+economic+theory+with+real+world+data."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=7C3AED&center=true&vCenter=true&width=750&lines=Turning+data+into+decision-
+    ready+insights.;Analyzing+markets+through+an+economics+lens.;Bridging+economic+theory+with+real+world+data."
     alt="Typing introduction"
   />
 </p>
